@@ -5,7 +5,7 @@ export default class Keypad extends Component {
 
   render() {
     return(
-      <input type='text' 
+      <input type='password' onKeyUp={}>
     )
   }
 
